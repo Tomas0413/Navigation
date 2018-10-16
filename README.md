@@ -1,8 +1,14 @@
 # Project Details
-The README describes the the project environment details (i.e., the state and action spaces, and when the environment is considered solved).
+The agents navigates through the square and collects bananas. The goal is to learn how to collect yellow bananas and avoid the purple ones.
+
+States: 37
+Actions: 4 (forward, back, left, right)
+Rewards: +1 for picking yellow banana, -1 for picking purple banana, 0 otherwise.
 
 # Getting Started
-The README has instructions for installing dependencies or downloading needed files.
+
+Open Navigation.ipynb Jupyeter notebook, it also contains a section on how to install the necessary dependencies.
 
 # Instructions
-The README describes how to run the code in the repository, to train the agent. For additional resources on creating READMEs or using Markdown, see here and here.
+
+Open Navigation.ipynb Jupyeter notebook and execute each code block to train the agent using DQN.
