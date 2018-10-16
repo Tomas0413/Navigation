@@ -25,7 +25,7 @@ The network architecture consists of three fully connected (FC) linear layers wh
 
 # Plot of Rewards
 
-This chart illustrates the rewards received per episode. We consider the problem solved when at least +13 are reached over 100 episodes. In our case it took 530 episodes to achieve this goal.
+This chart illustrates the rewards received per episode. We consider the problem solved when at least +13 are reached over 100 episodes. In our case, it took 530 episodes to achieve this goal.
 
 ![Rewards per episode](rewards_per_episode.png)
 
@@ -35,4 +35,4 @@ This chart illustrates the rewards received per episode. We consider the problem
 * I would like to spend some time and train an agent from raw pixels
 * I would like to spend some time and compare the performance of the agent to [Double DQN](https://arxiv.org/abs/1509.06461) and [Dueling DQN](https://arxiv.org/abs/1511.06581)
 * I'm also interested in exploring [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
-* Also, a colleague of mine is learning Unity and created a simple game, I'd like to apply what I learned and solve this gave using RL
+* Also, a colleague of mine is learning Unity and created a simple game, I'd like to apply what I learned to solve this game using RL
