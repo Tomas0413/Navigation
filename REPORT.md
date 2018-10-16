@@ -1,7 +1,15 @@
 
 # Learning Algorithm
 
-The report clearly describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
+The algorithm for the agent is [DQN](https://arxiv.org/pdf/1312.5602.pdf)
+
+model.py file contains neural network definition
+dqn_agent.py file implements Agent and ReplayBuffer classes
+
+Hyperparameters:
+
+Network architecture:
+
 
 # Plot of Rewards
 
