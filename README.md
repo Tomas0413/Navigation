@@ -1,9 +1,9 @@
 # Project Details
 The agents navigates through the square and collects bananas. The goal is to learn how to collect yellow bananas and avoid the purple ones.
 
-States: 37
-Actions: 4 (forward, back, left, right)
-Rewards: +1 for picking yellow banana, -1 for picking purple banana, 0 otherwise.
+* States: 37
+* Actions: 4 (forward, back, left, right)
+* Rewards: +1 for picking yellow banana, -1 for picking purple banana, 0 otherwise.
 
 # Getting Started
 
