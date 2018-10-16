@@ -7,7 +7,7 @@ The agent navigates through the square and collects bananas. The goal is to lear
 
 # Getting Started
 
-Open Navigation.ipynb Jupyeter notebook, it also contains a section on how to install the necessary dependencies.
+Open Navigation.ipynb Jupyter notebook, it also contains a section on how to install the necessary dependencies.
 
 # Instructions
 
