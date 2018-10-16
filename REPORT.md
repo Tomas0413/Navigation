@@ -15,6 +15,8 @@ Network architecture:
 
 A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
 
+[rewards_per_episode.png]
+
 # Ideas for Future Work
 
 * I would like to use [Tensorboard for PyTorch](https://github.com/lanpa/tensorboardX)
