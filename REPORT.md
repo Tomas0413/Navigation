@@ -13,7 +13,7 @@ Network architecture:
 
 # Plot of Rewards
 
-A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
+This chart illustrates the rewards received per episode. We consider the problem solved when at least +13 are reached over 100 episodes. In our case it took 530 episodes to achieve this goal.
 
 ![Rewards per episode](rewards_per_episode.png)
 
