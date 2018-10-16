@@ -1,5 +1,5 @@
 # Project Details
-The agents navigates through the square and collects bananas. The goal is to learn how to collect yellow bananas and avoid the purple ones.
+The agent navigates through the square and collects bananas. The goal is to learn how to collect yellow bananas and avoid the purple ones.
 
 * States: 37
 * Actions: 4 (forward, back, left, right)
