@@ -3,10 +3,18 @@
 
 The algorithm for the agent is [DQN](https://arxiv.org/pdf/1312.5602.pdf)
 
-model.py file contains neural network definition
-dqn_agent.py file implements Agent and ReplayBuffer classes
+* model.py file contains neural network definition
+* dqn_agent.py file implements Agent and ReplayBuffer classes
+* checkpoint.pth file contains model checkpoint 
 
-Hyperparameters:
+Hyperparameters (defined in dqn_agent.py)
+
+ReplayBufferSize: 100000
+BatchSize: 64
+Gamma: 0.99
+Learning Rate: 0.0005
+Tau: 0.001
+
 
 Network architecture:
 
