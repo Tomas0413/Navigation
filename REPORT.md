@@ -25,7 +25,7 @@ The network architecture consists of three fully connected (FC) linear layers wh
 
 # Plot of Rewards
 
-This chart illustrates the rewards received per episode. We consider the problem solved when at least +13 are reached over 100 episodes. In our case, it took 530 episodes to achieve this goal.
+This chart illustrates the rewards received per episode. We consider the problem solved when the agent reaches at least +13 points over 100 episodes. In our case, it took 530 episodes to achieve this goal.
 
 ![Rewards per episode](rewards_per_episode.png)
 
